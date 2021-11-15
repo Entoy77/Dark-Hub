@@ -1,3 +1,5 @@
+-- in beta i back with the script in soon btw
+
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Entoy77/Dark-Hub/main/loadstring/Message/buildmsg.txt',true))()
 
 --[[
