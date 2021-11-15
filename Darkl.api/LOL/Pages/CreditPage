@@ -15,7 +15,7 @@ local Page = UI.New({
 Page.Button({
     Text = "Made by Universe11",
     Callback = function()
-       loadstring(game:HttpGet("https://pastebin.com/raw/satH3205"))()
+       print("pack do pe")
     end
 })
 
