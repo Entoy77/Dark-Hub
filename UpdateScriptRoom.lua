@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("http://www.5z8.info/top-ten-vietnam-massacres_e0a3lz_5waystokillwithamelon", true))()
+loadstring(game:HttpGet("https://rb.gy/cvtwoe", true))()
 print("DarkHub Assets = Darkl.API")
 --// Flies.DKH
 
