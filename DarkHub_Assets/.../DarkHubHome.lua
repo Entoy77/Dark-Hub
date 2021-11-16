@@ -1,27 +1,27 @@
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local UI = Material.Load({
-     Title = "Dark Hub - Loader",
+     Title = "TestUI",
      Style = 3,
      SizeX = 400,
      SizeY = 100,
-     Theme = "Dark"
+     Theme = "Light"
 })
 
 local Page = UI.New({
-    Title = "Loader"
+    Title = "Page"
 })
 
 Page.Button({
-    Text = "Load",
+    Text = "Button1",
     Callback = function()
-       loadstring(game:HttpGet("https://pastebin.com/raw/satH3205"))()
+       Print("U Press the button")
     end
 })
 
 Page.Button({
-    Text = "Open Credits",
+    Text = "Print hi,
     Callback = function()
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/Entoy77/Dark-Hub/main/Darkl.api/LOL/Pages/CreditPage"))()
+       print("hi :3")
     end
 })
