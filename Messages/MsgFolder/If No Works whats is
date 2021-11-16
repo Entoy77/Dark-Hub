@@ -1,0 +1,6 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title    = "Dark Hub"; 
+    Text     = "if the hub doesn't open it could be a bug or it doesn't have support in this game or because it's under construction.; 
+    Icon     = ""; 
+    Duration = 3; 
+})
