@@ -17,7 +17,7 @@ local Page = UI.New({
 Page.Button({
     Text = "Load",
     Callback = function()
-       loadstring(game:HttpGet("https://pastebin.com/raw/satH3205"))()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/Entoy77/Dark-Hub/main/DarkHub_Assets/.../TestingModule/PSLWORKS"))()
     end
 })
 
