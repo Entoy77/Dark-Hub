@@ -1,0 +1,6 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title    = "Dark Hub"; 
+    Text     = "DarkHub. Version: Alpha; 
+    Icon     = ""; 
+    Duration = 3; 
+})
