@@ -17,7 +17,10 @@ local Page = UI.New({
 Page.Button({
     Text = "Load",
     Callback = function()
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/Entoy77/Dark-Hub/main/DarkHub_Assets/.../TestingModule/PSLWORKS"))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/Entoy77/Dark-Hub/main/Games/Meepcity.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entoy77/Dark-Hub/main/Games/PrisonLife.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entoy77/Dark-Hub/main/Messages/MsgFolder/If%20No%20Works%20whats%20is"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entoy77/Dark-Hub/main/Messages/MsgFolder/VersionEdition"))()
     end
 })
 
