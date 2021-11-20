@@ -27,3 +27,10 @@ Page.Button({
        loadstring(game:HttpGet("https://raw.githubusercontent.com/Entoy77/Dark-Hub/main/Darkl.api/LOL/Pages/CreditPage"))()
     end
 })
+
+Page.Button({
+    Text = "Close Loader",
+    Callback = function()
+       loadstring(game:HttpGet("https://pastebin.com/raw/1g0FRFFU"))()
+    end
+})
