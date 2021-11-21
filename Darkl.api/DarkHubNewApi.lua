@@ -11,4 +11,4 @@ local Msgreq = function(Title,Text,Duration,Button1Text,Button2Text)
     })
 end
  
-Msgreq("Darkl.Api","Made by Visual Studio",5,nil)
+Msgreq("Darkl.Api","Made With Visual Studio",5,nil)
