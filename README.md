@@ -1,11 +1,15 @@
 # DarkHub
-## discord.gg/darkhub 
+##  Discord
+
+discord.gg/darkhub 
 
 
 discord off-line '-'
 
 
-##darkhub.xyz
+## Website 
+
+darkhub.xyz
 
 
 website online
