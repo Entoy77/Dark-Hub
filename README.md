@@ -1,6 +1,10 @@
 # DarkHub
-discord.gg/darkhub
+discord.gg/darkhub 
+discord off-line '-'
+
+
 darkhub.xyz
+website online
 
 [![TellEmWassup](https://i.imgur.com/Vsf0Njv.png)
 
