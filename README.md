@@ -14,6 +14,13 @@ darkhub.xyz
 
 website online
 
+## Script
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entoy77/Dark-Hub/main/Init", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entoy77/Dark-Hub/main/Darkl.api/DarkHubNewApi.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entoy77/Dark-Hub/main/Darkl.api/EditCode.lua", true))()
+```
+
 ## 
 
 [![TellEmWassup](https://i.imgur.com/Vsf0Njv.png)
