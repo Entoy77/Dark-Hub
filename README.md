@@ -1,8 +1,8 @@
 # DarkHub
 discord.gg/darkhub 
-discord 
 
-off-line '-'
+
+discord off-line '-'
 
 
 darkhub.xyz
