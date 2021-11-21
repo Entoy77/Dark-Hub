@@ -1,4 +1,6 @@
-# DarkHub
+<h1 align="center">Dark Hub</h1>
+<p align="center">DarkHub, This is where all the magic happens!</p>
+<p align="center">
 
 ## Script
 ```lua
