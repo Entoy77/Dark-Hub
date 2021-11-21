@@ -25,7 +25,7 @@ website online
 - Felix
 - Teax
 
-## Videos :):
+## Videos :)
 Dark Hub Showcase Arsenal Video [Watch](https://www.youtube.com/watch?v=tTVn1X28Wqw)
 
 
