@@ -2,9 +2,9 @@
 discord.gg/darkhub
 darkhub.xyz
 
-[![Discord](https://i.imgur.com/Vsf0Njv.png)
+[![TellEmWassup](https://i.imgur.com/Vsf0Njv.png)
 
-## made by:
+## Made By:
 - Bye...
 - Prestiged
 - Dawid
